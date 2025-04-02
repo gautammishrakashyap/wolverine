@@ -47,7 +47,7 @@ Write a recursive function to calculate the Fibonacci sequence up to n terms.
 
 Write a program to remove duplicates from a string.
 
-Write a program to check if two strings are anagrams of each other..
+Write a program to check if two strings are anagrams of each other...
 
 📌 Day 21 - 25: Object-Oriented Programming (OOP)
 Create a class Rectangle with attributes length and breadth, and a method to calculate area.
